@@ -1,15 +1,9 @@
-<script setup>
-
-</script>
+<script setup></script>
 
 <template>
-    <div>
-        <Header/>
-    </div>
+  <div>
+    <Header />
+  </div>
 </template>
 
-
-
-<style scoped>
-
-</style>
+<style scoped></style>
