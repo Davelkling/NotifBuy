@@ -2,7 +2,7 @@
 
 <template>
   <div>
-    <Signin />
+    <SignIn />
   </div>
 </template>
 
