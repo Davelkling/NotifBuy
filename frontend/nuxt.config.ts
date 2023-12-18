@@ -5,7 +5,8 @@ export default defineNuxtConfig({
     head: {
       title: 'NotifBuy Peddler',
       link: [
-        {rel: 'stylesheet', href:'https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined'}
+        {rel: 'stylesheet', href:'https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined'},
+        { rel: 'icon', type: 'image/x-icon', href:'NotifBuy_FaviconFinal.ico' }
       ],
     }
   },
