@@ -3,7 +3,7 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   app: {
     head: {
-      title: 'Cart & Tell',
+      title: 'NotifBuy Peddler',
       link: [
         {rel: 'stylesheet', href:'https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined'}
       ],
